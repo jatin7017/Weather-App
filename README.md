@@ -49,13 +49,3 @@ Edit
 - **API Used:** [OpenWeatherMap](https://openweathermap.org/api)  
 - Replace the API key placeholder in `script.js` with your actual API key
 
-```js
-const apiKey = 'YOUR_API_KEY_HERE';
-💡 Future Improvements
-5-day or hourly weather forecast
-
-Geolocation-based weather
-
-Enhanced error handling (e.g., city not found)
-
-Dark/light theme toggle
